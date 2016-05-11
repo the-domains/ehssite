@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: EHS Energy Consulting Services Ltd
-datePublished: '2016-05-11T17:27:24.556Z'
-dateModified: '2016-05-11T17:27:23.710Z'
+datePublished: '2016-05-11T17:36:00.092Z'
+dateModified: '2016-05-11T17:35:59.668Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-ehs-energy-consulting-services-ltd.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-ehs-energy-consulting-services-ltd.md
 url: ehs-energy-consulting-services-ltd/index.html
 _type: Article
 
