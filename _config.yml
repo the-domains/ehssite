@@ -1,6 +1,6 @@
 name: EHSSite
 favicon: null
-layout_spectrum: 0.8845204743556678
+layout_spectrum: 0.46382
 typography_spectrum: 0.8925028385128826
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.051351880887523293
+    - '#000000'
+    - '#ffffff'
+    - '#db4613'
+    - '#fec955'
+    - '#782100'
+  brandStrength: 0.25
   lightness: 0.010784464422613382
   saturation: 0.24601391912437975
   rhythmicContrast: 0.4225793245714158
